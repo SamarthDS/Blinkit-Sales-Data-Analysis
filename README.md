@@ -1,4 +1,4 @@
-# 🛒 Blinkit Sales Analysis | Excel + SQL + Power BI Project
+# 🛒 Blinkit Sales Analysis | Excel + SQL + Power BI Project 
 
 A complete data analysis project simulating a real-world business case for Blinkit (a grocery delivery platform), covering data cleaning, transformation, and interactive dashboarding using Excel, SQL and Power BI.
 
